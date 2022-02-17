@@ -1,0 +1,22 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "chai": "^4.3.3",
+    "chromedriver": "^2.46.0",
+    "crypto-js": "^4.0.0",
+    "fs": "0.0.1-security",
+    "log4js": "^6.3.0",
+    "mocha": "^3.5.3",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "xml2js": "^0.4.23",
+    "xmlreader": "^0.2.3"
+  },
+  "devDependencies": {
+    "line-reader": "^0.4.0",
+    "mochawesome": "^3.1.2",
+    "supertest": "^3.0.0"
+  }
+}
